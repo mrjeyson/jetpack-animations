@@ -16,6 +16,7 @@ class MainActivity : ComponentActivity() {
 //                AnimateSingleFunction()
 //                AnimatableFunction()
                 InfiniteAnimateFunction()
+
             }
         }
     }
