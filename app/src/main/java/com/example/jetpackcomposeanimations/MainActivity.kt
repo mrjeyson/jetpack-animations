@@ -8,8 +8,8 @@ import com.example.jetpackcomposeanimations.ui.theme.JetpackComposeAnimationsThe
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContent {
 
+        setContent {
             JetpackComposeAnimationsTheme {
 //                AnimatedVisibilityFunction()
 //                AnimatedSizeChangesFunction()
