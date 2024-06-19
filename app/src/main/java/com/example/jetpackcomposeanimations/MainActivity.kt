@@ -12,8 +12,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             JetpackComposeAnimationsTheme {
 //                AnimatedVisibilityFunction()
-                AnimatedSizeChangesFunction()
-//                AnimatedContent()
+//                AnimatedSizeChangesFunction()
+                AnimatedContent()
 //                AnimateSingleFunction()
 //                AnimatableFunction()
 //                InfiniteAnimateFunction()
