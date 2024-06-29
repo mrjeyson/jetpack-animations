@@ -16,8 +16,8 @@ class MainActivity : ComponentActivity() {
 //                AnimatedSizeChangesFunction()
 //                AnimatedContent()
 //                AnimateSingleFunction()
-                AnimatableFunction()
-//                InfiniteAnimateFunction()
+//                AnimatableFunction()
+                InfiniteAnimateFunction()
             }
         }
     }
