@@ -15,8 +15,8 @@ class MainActivity : ComponentActivity() {
 //                AnimatedVisibilityFunction()
 //                AnimatedSizeChangesFunction()
 //                AnimatedContent()
-                AnimateSingleFunction()
-//                AnimatableFunction()
+//                AnimateSingleFunction()
+                AnimatableFunction()
 //                InfiniteAnimateFunction()
             }
         }
