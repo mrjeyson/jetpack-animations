@@ -12,12 +12,12 @@ class MainActivity : ComponentActivity() {
 
         setContent {
             JetpackComposeAnimationsTheme {
-//                AnimatedVisibilityFunction()
+                AnimatedVisibilityFunction()
 //                AnimatedSizeChangesFunction()
 //                AnimatedContent()
 //                AnimateSingleFunction()
 //                AnimatableFunction()
-                InfiniteAnimateFunction()
+//                InfiniteAnimateFunction()
             }
         }
     }
