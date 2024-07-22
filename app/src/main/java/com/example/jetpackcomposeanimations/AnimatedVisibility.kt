@@ -28,7 +28,6 @@ import androidx.compose.ui.unit.dp
 @Composable
 fun AnimatedVisibilityFunction() {
 
-
     Column(
         modifier = Modifier.fillMaxSize(),
         horizontalAlignment = Alignment.CenterHorizontally
