@@ -30,6 +30,8 @@ fun AnimatedVisibilityFunction() {
         modifier = Modifier.fillMaxSize(),
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
+
+
         var isContentVisible by remember {
             mutableStateOf(false)
         }
