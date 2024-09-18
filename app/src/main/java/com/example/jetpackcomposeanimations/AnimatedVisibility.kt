@@ -31,6 +31,7 @@ fun AnimatedVisibilityFunction() {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
 
+
         var isContentVisible by remember {
             mutableStateOf(false)
         }
