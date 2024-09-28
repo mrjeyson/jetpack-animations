@@ -28,7 +28,6 @@ import kotlin.random.Random
 
 @Composable
 fun AnimatableFunction() {
-
     Column(
         modifier = Modifier.fillMaxSize(),
         horizontalAlignment = Alignment.CenterHorizontally,
